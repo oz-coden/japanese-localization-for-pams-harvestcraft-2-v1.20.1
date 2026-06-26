@@ -1,0 +1,1 @@
+# japanese-localization-for-ph2-v-1.20.1-x
